@@ -1,0 +1,3 @@
+rootProject.name = 'BrainStorm'
+
+include ':app'
